@@ -1,5 +1,3 @@
-
-
 export type PaginationProps = {
     
     currentPage: number;

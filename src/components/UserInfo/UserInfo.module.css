@@ -1,18 +1,8 @@
-.another-users{
-    display: flex;
-    flex-wrap: wrap;
-
-    max-width: 1200px;
-    margin: 0 auto;
-    
-}
 .card{
     margin: 0 1rem 2rem 1rem;
     text-align: center;
     border: 1px solid #000;
-    width: 195px;
-    height: 223px;
-    
+    padding: 10px;
 }
 
 .card-img{

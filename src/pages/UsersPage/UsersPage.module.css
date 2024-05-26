@@ -1,0 +1,27 @@
+.another-users{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.usersPage-container{
+    display:flex;
+    justify-content:space-between;
+}
+
+.searching-filters{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+}
+label{
+    display: flex;
+    flex-direction: column;
+}
+
+.link{
+    font-size:24px;
+    color: black;
+    text-decoration:none;
+}
